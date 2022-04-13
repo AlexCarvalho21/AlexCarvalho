@@ -9,7 +9,7 @@
 <br />
 <br />
 Hey there! I'm Alex, I'm a musician from Portugal.
-A noob programming in his spare time.
+a noob programmer in his spare time
 <br>
 
 - 📞 Contact me on discord at: zicamadresifac#4300
